@@ -1,5 +1,5 @@
 
-![banner_img](./github_image.png)
+![github_image](https://github.com/Ranjukumari-202114/Ranjukumari-202114/assets/91342000/2d885949-b806-44eb-8275-f416e8a29dbf)
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Ranju👋</span>
 </h2>
